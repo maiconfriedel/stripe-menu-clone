@@ -20,6 +20,7 @@ export const DropdownStyles = styled.div`
     font-size: 18px;
     transition: opacity 0.2s;
     font-weight: bold;
+    cursor: pointer;
 
     &:hover,
     &:focus {

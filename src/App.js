@@ -6,12 +6,12 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <>
+    <React.Fragment>
       <Layout>
         <Navbar />
       </Layout>
       <GlobalStyles />
-    </>
+    </React.Fragment>
   );
 }
 

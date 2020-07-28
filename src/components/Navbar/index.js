@@ -1,9 +1,9 @@
 import React from "react";
 
 import { Products, Developers, Company } from "../Content";
+import { DropdownOption } from "../Dropdown";
 
 import { Container, DropdownStyles } from "./styles";
-import { DropdownOption } from "../Dropdown";
 
 function Navbar() {
   return (
